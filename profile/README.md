@@ -19,10 +19,10 @@ We create and maintain backend systems, apps and websites for both customers and
 
 ## Contribution :pencil2:
 
-We are inviting everyone to report issues and create pull requests to the repository. :pray:
+We are inviting everyone to report issues and create pull requests to the repositories. :pray:
 
-To join the development team, you'll have to apply to become a part of Cafe Analog. Upon being accepted, you are welcome to join AnalogIO and contributing.
+To join the development team, you'll have to apply to become a part of Cafe Analog. Upon being accepted, you are welcome to join AnalogIO and start coding.
 
 ## Get in touch :mailbox_with_mail:
 
-Please create an issue if you want to report an error or suggest an improvement to one of our services. If you want to get in touch for another matter or want to discuss on email, please reach out at  *support [at] analogio.dk* :email:
+Please create an issue if you want to report an error or suggest an improvement to our services. If you want to get in touch for another matter or want to discuss on email, please reach out at  *support [at] analogio.dk*. :email:
