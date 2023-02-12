@@ -13,7 +13,7 @@ We create and maintain backend systems, apps and websites for both customers and
 | Coffee Card App   | Our latest version of the Coffee Card App for customers. Written in cross-platform Flutter for better maintainability | [coffeecard_app](https://github.com/AnalogIO/coffeecard_app) |
 | Shiftplanning API | Shiftplanning service for creating and publishing a shiftplan                                                            | [ShiftPlanning_API](https://github.com/AnalogIO/ShiftPlanning_API) |
 | Shiftplanning Web | Shiftplanning frontend for creating and managing a shiftplan                                                             | [ShiftPlanning_web](https://github.com/AnalogIO/ShiftPlanning_web) |
-| Shifty | Blazor webapp for baristas on shift                                                             | [shifty-webpp](https://github.com/AnalogIO/shifty-webapp) |
+| Shifty | Blazor webapp for baristas on shift                                                             | [shifty-webapp](https://github.com/AnalogIO/shifty-webapp) |
 | Azure        | Configuration and Infrastructure as Code for Azure where all our services are hosted                                          | [azure](https://github.com/AnalogIO/azure) |
 | cafeanalog.dk     |                                                                                                                          | [cafeanalog.dk](https://github.com/AnalogIO/cafeanalog.dk) |
 | analogio.dk       |                                                                                                                          | [analogio.dk](https://github.com/AnalogIO/analogio.dk)     |
