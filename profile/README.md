@@ -13,14 +13,13 @@ We create and maintain backend systems, apps and websites for both customers and
 | Coffee Card App   | Our latest version of the Coffee Card App for customers. Written in cross-platform Flutter | [coffeecard_app](https://github.com/AnalogIO/coffeecard_app) |
 | Shifty | Blazor webapp for baristas on shift                                                             | [shifty-webapp](https://github.com/AnalogIO/shifty-webapp) |
 | Azure        | Configuration and Infrastructure as Code for Azure where all our services are hosted                                          | [azure](https://github.com/AnalogIO/azure) |
-| cafeanalog.dk     |                                                                                                                          | [cafeanalog.dk](https://github.com/AnalogIO/cafeanalog.dk) |
 | analogio.dk       |                                                                                                                          | [analogio.dk](https://github.com/AnalogIO/analogio.dk)     |
 
 ## Contribution :pencil2:
 
 We are inviting everyone to report issues and create pull requests to the repositories. :pray:
 
-To join the development team, you'll have to apply to become a part of Cafe Analog. Upon being accepted, you are welcome to join AnalogIO and start coding.
+To join the development team, please reach out to us. Upon being accepted, you are welcome to join AnalogIO and start coding.
 
 ## Get in touch :mailbox_with_mail:
 
