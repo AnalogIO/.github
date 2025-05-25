@@ -11,7 +11,7 @@ We create and maintain backend systems, apps and websites for both customers and
 |-------------------|--------------------------------------------------------------------------------------------------------------------------|------|
 | Analog Core       | The core API driving the coffee card apps                                                                                | [analog-core](https://github.com/AnalogIO/analog-core) |
 | Coffee Card App   | Our latest version of the Coffee Card App for customers. Written in cross-platform Flutter | [coffeecard_app](https://github.com/AnalogIO/coffeecard_app) |
-| Shifty | Blazor webapp for baristas on shift                                                             | [shifty-webapp](https://github.com/AnalogIO/shifty-webapp) |
+| Shifty | Blazor webapp for managers and board members                                                             | [shifty-webapp](https://github.com/AnalogIO/shifty-webapp) |
 | Azure        | Configuration and Infrastructure as Code for Azure where all our services are hosted                                          | [azure](https://github.com/AnalogIO/azure) |
 | analogio.dk       |                                                                                                                          | [analogio.dk](https://github.com/AnalogIO/analogio.dk)     |
 
